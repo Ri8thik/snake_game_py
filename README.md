@@ -1,5 +1,5 @@
 # snake_game_py
-
+using pygames module
 
 ![screenshot from 2018-10-31 21-36-27](https://user-images.githubusercontent.com/31169310/47802094-99f92200-dd55-11e8-99a1-89d2025124ee.png)
 
